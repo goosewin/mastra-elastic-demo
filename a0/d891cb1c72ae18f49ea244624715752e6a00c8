@@ -1,0 +1,35 @@
+src/scripts/setup-index.ts
+  s_c1fb2a67a9d22c::t_97f88e569ed0a5 13-17
+.gitignore
+  s_c1fb2a67a9d22c::t_dbff4e060f9d38 8-10
+README.md
+  s_c1fb2a67a9d22c::t_ef8cfc8abef0bf 3-62
+src/scripts/ingest.ts
+  s_c1fb2a67a9d22c::t_7cb042dd2a7d90 23
+queries/kibana-dev-tools.md
+  s_c1fb2a67a9d22c::t_efffc2bfb09af9 1-154
+src/scripts/ask.ts
+  s_c1fb2a67a9d22c::t_1814e457ae4037 7-25
+docs/PATTERNS.md
+  s_c1fb2a67a9d22c::t_4e3229a292a6fa 1-13
+src/mastra/agents/elasticsearch-agent.ts
+  s_c1fb2a67a9d22c::t_7d3cba8a9ad11f 22-28
+src/scripts/search.ts
+  s_c1fb2a67a9d22c::t_34169a2ed0f417 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "a0d891cb1c72ae18f49ea244624715752e6a00c8",
+  "prompts": {},
+  "sessions": {
+    "s_c1fb2a67a9d22c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "84dab0fa-9c88-4976-897b-bc2177d23532",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
