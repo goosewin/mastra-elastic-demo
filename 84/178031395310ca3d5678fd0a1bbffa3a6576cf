@@ -1,0 +1,19 @@
+.gitignore
+  s_c1fb2a67a9d22c::t_dbff4e060f9d38 8-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "84178031395310ca3d5678fd0a1bbffa3a6576cf",
+  "prompts": {},
+  "sessions": {
+    "s_c1fb2a67a9d22c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "84dab0fa-9c88-4976-897b-bc2177d23532",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dan Goosewin <dan@goosewin.com>"
+    }
+  }
+}
